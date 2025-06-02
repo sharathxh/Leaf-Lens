@@ -1,0 +1,1 @@
+Google Gemini API Key = "AIzaSyBEMxmJvrlZAkIJKk4euAoqJ5l7dgjZf6c"
