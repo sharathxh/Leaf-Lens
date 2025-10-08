@@ -17,7 +17,7 @@ The Plant Identifier App is a user-friendly web application that helps users ide
 - **Backend**: Next.js
 - **AI Service**: Google Generative AI
 - **Styling**: Tailwind CSS
-- 
+  Created by Sharath[BCA Student,SKC]
 
 
    
